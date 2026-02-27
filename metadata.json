@@ -1,0 +1,5 @@
+{
+  "name": "Unified SaaS Control Platform",
+  "description": "A multi-tenant SaaS demonstration system featuring Platform Admin and Tenant Admin portals with role-based access control.",
+  "requestFramePermissions": []
+}
